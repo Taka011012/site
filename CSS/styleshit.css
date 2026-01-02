@@ -74,7 +74,7 @@ body::after {
   top: 0;
   left: 50%;
   transform: translateX(-50%);
-  width: 560px;                
+  width: 45%;                
   height: 7px;
   background: rgb(255, 220, 140);  
   border-radius: 0 0 14px 14px;
