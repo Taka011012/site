@@ -7,7 +7,7 @@ html, body {
 
 body {
   min-height: 100vh;
-  background: url("../imagesnul/JOJOS.jpg") center top / cover no-repeat fixed;
+  background: url("../imagesnul/jojos.jpg") center top / cover no-repeat fixed;
   display: flex;
   flex-direction: column;
   align-items: center;
